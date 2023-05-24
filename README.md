@@ -1,16 +1,18 @@
 ### Hi there 👋
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="(https://blog.csdn.net/qq_43184070?type=blog)"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+</p>
 
-<!--
-**ZPS45683968/ZPS45683968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ZPS45683968&theme=dark)]()
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZPS45683968&theme=dark&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://activity-graph.herokuapp.com/graph?username=ZPS45683968&theme=github)
+
+![](https://stats.justsong.cn/api/csdn?id=qq_43184070&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=250874186&theme=dark)
+
+
+
+
